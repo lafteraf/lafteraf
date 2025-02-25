@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @lafteraf
-- 👀 I’m interested in Kotlin Android developing/ Unity
-- 🌱 I’m currently learning Kotlin
-- 💞️ I’m looking to collaborate on Android Developing
-- 📫 How to reach me avfsam@gmail.com
 
 <!---
 lafteraf/lafteraf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
